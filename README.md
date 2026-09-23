@@ -1,0 +1,2 @@
+# Widescreen-FireRed
+Widescreen FireRed
